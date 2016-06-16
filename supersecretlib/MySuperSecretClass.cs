@@ -33,8 +33,7 @@ namespace supersecretlib
 
 			var more_silliness = new[] { randomz, my_super_secret };
 
-			return more_silliness.OrderBy(c => c.Length).FirstOrDefault(); 
-			;
+			return more_silliness.OrderBy(c => c.Length).FirstOrDefault();
 		}
 	}
 }

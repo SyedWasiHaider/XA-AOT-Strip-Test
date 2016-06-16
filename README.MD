@@ -1,6 +1,6 @@
 # Android AOT + Partial IL Stripping Example
 
-This project is an example of how one could AOT their Android project and IL strip _some_ of their DLLs. _Some_ because this process will only allow us to IL strip platform-independent code.
+This project is an example of how one could AOT their Android project and IL strip _some_ of their DLLs. _Some_ because this process only seems to work when we're IL stripping platform-independent code.
 
 ### Let's see this in action
 

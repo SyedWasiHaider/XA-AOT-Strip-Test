@@ -9,7 +9,7 @@ This project is an example of how one could AOT their Android project and IL str
     * Double click on the Android project
     * Select "Android Build" from the left panel
     * Change the configuration dropdown on the top to say "Release"
-    * On the general tab make sure everything except for "Enable AOT (Experimental)" is selected. *You can enable LLVM but it is known to be unstable.*
+    * On the general tab make sure everything except for "Enable AOT (Experimental)" is selected. [AOT+LLVM](https://developer.xamarin.com/releases/android/xamarin.android_6/xamarin.android_6.1/#Known_Issues) does not work
     * On the advanced tab, select the ABI's you wish to support. Note that x86_64 is not currently supported.
     * Click ok
 

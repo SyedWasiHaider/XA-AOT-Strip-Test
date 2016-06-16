@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aotstriptest", "aotstriptest.csproj", "{633415A9-0CE0-4AD7-BA71-1EDE29AAFA23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "supersecretlib", "supersecretlib\supersecretlib.csproj", "{EAC52922-DDC3-40EE-BC48-2B3A6BA7842B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633415A9-0CE0-4AD7-BA71-1EDE29AAFA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633415A9-0CE0-4AD7-BA71-1EDE29AAFA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633415A9-0CE0-4AD7-BA71-1EDE29AAFA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633415A9-0CE0-4AD7-BA71-1EDE29AAFA23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC52922-DDC3-40EE-BC48-2B3A6BA7842B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC52922-DDC3-40EE-BC48-2B3A6BA7842B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC52922-DDC3-40EE-BC48-2B3A6BA7842B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC52922-DDC3-40EE-BC48-2B3A6BA7842B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
